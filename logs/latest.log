@@ -1,0 +1,21 @@
+[2612月2025 00:05:38.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: why has made the advancement [Cover Me with Diamonds]
+[2612月2025 00:26:39.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: why lost connection: Disconnected
+[2612月2025 00:26:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: why left the game
+[2612月2025 00:27:09.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: why[/112.193.178.62:56548] logged in with entity id 34658 at (335.5, 64.0625, 835.5)
+[2612月2025 00:27:10.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: why joined the game
+[2612月2025 01:34:36.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: why lost connection: Disconnected
+[2612月2025 01:34:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: why left the game
+[2612月2025 01:35:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[2612月2025 02:16:27.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[2612月2025 02:16:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[2612月2025 02:16:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[2612月2025 02:16:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[2612月2025 02:16:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[2612月2025 02:16:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[2612月2025 02:16:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[2612月2025 02:16:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[2612月2025 02:16:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[2612月2025 02:16:27.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[2612月2025 02:16:27.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[2612月2025 02:16:28.170] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Closing FML Loader 5f36625c
+[2612月2025 02:16:28.178] [main/INFO] [net.neoforged.fml.ModLoader/]: Clearing ModLoader
