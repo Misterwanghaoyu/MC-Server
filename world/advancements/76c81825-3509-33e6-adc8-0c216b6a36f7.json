@@ -2646,19 +2646,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
     "criteria": {
-      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
+      "has_lily_of_the_valley": "2025-12-26 00:30:16 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chest_from_honeycomb": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_oxidized_copper_chest": "2025-12-26 01:16:48 +0800"
+      "has_lily_of_the_valley": "2025-12-26 00:30:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-12-26 00:42:55 +0800"
     },
     "done": true
   },
   "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-12-26 00:43:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-12-26 00:43:38 +0800"
     },
@@ -2694,12 +2706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-26 01:07:10 +0800"
@@ -2724,18 +2730,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-12-26 00:30:16 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-26 01:07:10 +0800"
@@ -2748,15 +2742,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chest_from_honeycomb": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-12-26 00:30:16 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-12-26 00:43:38 +0800"
+      "has_oxidized_copper_chest": "2025-12-26 01:16:48 +0800"
     },
     "done": true
   },
@@ -2766,9 +2754,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_hay_block": "2025-12-26 00:42:55 +0800"
+      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-26 01:27:13 +0800"
     },
     "done": true
   },
